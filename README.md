@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React Code Challenge Boilerplate
+
+İş başvurusu yaptığımda gönderilen aptal code challangelar için başlangıç kiti oluşturmaya karar verdim. Burada auth, dark/light scss tema, state management (muhtemelen react query), klasör isimlendirme ve dağılımı, unit test, storybook, typescript için örnek tanımlamalar , lazy load için örnek tanımlamalar vs. bir sürü şey eklenecek. İster code challenge yapın ister unicorn level app a başlayın. Bu arada vue daha iyi :)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

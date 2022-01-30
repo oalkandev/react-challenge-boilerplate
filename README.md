@@ -1,6 +1,21 @@
 # React Code Challenge Boilerplate
 
-İş başvurusu yaptığımda gönderilen aptal code challangelar için başlangıç kiti oluşturmaya karar verdim. Burada auth, dark/light scss tema, state management (muhtemelen react query), klasör isimlendirme ve dağılımı, unit test, storybook, typescript için örnek tanımlamalar , lazy load için örnek tanımlamalar vs. bir sürü şey eklenecek. İster code challenge yapın ister unicorn level app a başlayın. Bu arada vue daha iyi :)
+İş başvurusu yaptığımda gönderilen ve genellikle başlamaya üşendiğim **zaman kaybı** code challengelar için başlangıç kiti oluşturmaya karar verdim. 
+
+Olmasını planladıklarım: 
+- JWT ile auth
+- Sass tema desteği dark/light
+- State management (muhtemelen react query)
+- Klasör isimlendirme ve dağılımı
+- Unit test
+- Storybook
+- Typescript için örnek tanımlamalar 
+- Lazy load için örnek tanımlamalar 
+
+vs. bir sürü şey eklenecek.
+İster code challenge yapın ister unicorn level app a başlayın.
+
+Bu arada vue öğrenmesi ve uygulaması daha kolay ve tertipli :)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
